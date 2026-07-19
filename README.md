@@ -8,7 +8,7 @@ tanto en el repositorio del proyecto y en los archivos LICENSE y README
 
 Por Tineox / Tineox_dev -_-
 
-================================================================================================================
+==================================================================
 
 Source code for my series explaining how to modify Quake 1
 
