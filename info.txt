@@ -11,7 +11,7 @@ Por Tineox / Tineox_dev -_-
 
 Source code for my series explaining how to modify Quake 1
 
-This code will be updated with each change made in the series.
+This code will be updated with each change made in the series
 
 You may use the code in your projects or mods, provided you comply with the GNU General Public License found in both the project 
 repository and the LICENSE file
