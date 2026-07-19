@@ -1,10 +1,10 @@
 # QuakeC-videos-src
-Codigo fuente de mi serie donde explico como modificar quake 1
+Código fuente de mi serie donde explico como modificar quake 1
 
 Este código será actualizado con cada cambio realizado en dicha serie
 
 Puedes usar el código en tus proyectos o mods siempre y cuando respetes la licencia GNU GENERAL PUBLIC LICENSE vista
-tanto en el repositorio del proyecto y en el archivo LICENSE
+tanto en el repositorio del proyecto como en el archivo LICENSE
 
 Por Tineox / Tineox_dev -_-
 
