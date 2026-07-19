@@ -1,5 +1,5 @@
 # QuakeC-videos-src
-Código fuente de mi serie donde explico como modificar quake 1
+Código fuente de mi serie donde explico como modificar Quake 1
 
 Este código será actualizado con cada cambio realizado en dicha serie
 
